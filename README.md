@@ -17,7 +17,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 <br>
 
 <p align="center">
-  <img alt="projeto Crachá Desktop" src=".github/../../.github/Preview.jpg" width="100%">
+  <img alt="projeto Crachá Desktop" src="./.github/Preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
