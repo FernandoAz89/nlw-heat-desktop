@@ -1,53 +1,48 @@
-# nlw-heat-desktop
-<h2 align="center"> Crachá Personalizado Desktop</h2>
-<h3 align="center"> NLW HEAT's </h3>
+<h1 align="center"> Crachá Desktop </h1>
 
-<p align="center">Crachá virtual para Desktop criado no evento NLW HEAT da Rocketseat🚀.</p>
- <p align="center">
-  A funcionalidade desse crachá virtual serve para apresentar suas principais redes sociais ou profissionais.
-  <br>
-  <br>
-  
- <img  src="https://github.com/NandoDev89/nlw-heat-desktop/blob/main/CrachaDesk.PNG" width="350" alt="accessibility text" >
- </p>
-  <br>
-  <p align="center">Cada ícone representa uma rede social, e ao clicar o usuário será direcionado para o perfil da plataforma clicada.</p>
- 
- <p align="center">Para a construção desse código foi utlizado a Linguagem de programação Javascript, CSS e HTML.</p>
- 
- 
- <h2 align="center">Javascript</h2>
- <br>
- <p  align="center"><img src="https://github.com/NandoDev89/nlw-heat-desktop/blob/main/CrachaDeskJS.png" width="500" alt="accessibility text" > 
- </p>
- 
- <h2 align="center">CSS</h2>
- <br>
- <p  align="center"><img src="https://github.com/NandoDev89/nlw-heat-desktop/blob/main/CrachaDeskCSS.png" width="500" alt="accessibility text" > 
- </p>
- 
-  <h2 align="center">HTML</H2>
-  <br>
- <p  align="center"><img src="https://github.com/NandoDev89/nlw-heat-desktop/blob/main/CrachaDesk1.png" width="500" alt="accessibility text" > 
- </p>
- 
-  
-
-
- 
-
-
- 
 <p align="center">
-<img src="https://media1.giphy.com/media/20Mmcse81nQ38dSwvo/giphy.gif?cid=ecf05e47ymzoybavl8oloet484asy5vah6sba4er7ni6yx05&rid=giphy.gif&ct=g" width="150"></h3> 
-  </p>
-  <p align="center">
-  Feito com 💜 
-  </p>
+NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 
-<p align="center"> 👨‍💻 All of my projects are available <a href="https://github.com/FernandoAz89?tab=repositories">🔗 here.</a></p>
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
+<br>
 
+<p align="center">
+  <img alt="projeto Crachá Desktop" src=".github/../../.github/Preview.jpg" width="100%">
+</p>
 
+## 🚀 Tecnologias
 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
+## 💻 Projeto
+
+O Habits é um app para ajudar a rastreart os hábitos.
+
+- [Acesse o projeto online](https://FernandoAz89.github.io/NLW-Setup)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/a0oWgreDd7EjAfamhZrbND/Habits-(e)-(Community)?node-id=75%3A128&t=SbF4IUpIBg0R2XNl-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
