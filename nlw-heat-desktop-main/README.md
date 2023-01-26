@@ -1,6 +1,6 @@
 # nlw-heat-desktop
 <h2 align="center"> Crachá Personalizado Desktop</h2>
-<h3 align="center"> NLW HEAT </h3>
+<h3 align="center"> NLW HEAT's </h3>
 
 <p align="center">Crachá virtual para Desktop criado no evento NLW HEAT da Rocketseat🚀.</p>
  <p align="center">
